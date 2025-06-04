@@ -24,4 +24,5 @@ El análisis concluye que la Tienda 4 presenta el peor rendimiento general, debi
 - Categoría con menor demanda.
 - Baja rotación de productos.
 - Calificaciones inferiores al promedio.
+  
 Se recomienda al señor Juan considerar la venta de la Tienda 4 para optimizar recursos y mejorar el rendimiento del portafolio comercial.
